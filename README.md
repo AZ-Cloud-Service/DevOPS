@@ -1,0 +1,1 @@
+# sre-devops-ss-Logezy-Azure-MySQL-Autoscaling
